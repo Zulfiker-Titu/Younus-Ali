@@ -42,7 +42,7 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,Ekushey TV
 http://103.121.36.238:8081/live/ekushey/chunks.m3u8
 #EXTINF:-1,Gazi TV
-http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1,BD IP 1
 http://182.48.82.130/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,BD IP 2
