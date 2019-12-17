@@ -26,7 +26,7 @@ http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
 #EXTINF:-1,DBC News
 http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
@@ -34,7 +34,7 @@ http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w992309116.
 #EXTINF:-1,Desh TV
 http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
 #EXTINF:-1,DURONTO TV
-http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
+http://103.81.104.222/live/duranta/index.m3u8
 #EXTINF:-1,Sonic
 https://triangle.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1,Ekattor TV
@@ -68,7 +68,7 @@ http://103.121.36.238:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1,RTV
 http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 #EXTINF:-1,SA TV
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+https://triangle.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1,Somoy News
 http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
 #EXTINF:-1,Songsad TV
