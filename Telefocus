@@ -34,7 +34,7 @@ http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w992309116.
 #EXTINF:-1,Desh TV
 http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
 #EXTINF:-1,DURONTO TV
-http://103.81.104.222/live/duranta/index.m3u8
+http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
 #EXTINF:-1,Sonic
 https://triangle.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1,Ekattor TV
@@ -99,6 +99,8 @@ http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 #EXTINF:-1,Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
+#EXTINF:-1,nexGTv Bengali Movies
+http://movies.nexg.tv/movie-b/movie-b.smil/playlist.m3u8
 #EXTINF:-1,DD Bangla
 http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
 #EXTINF:-1,ABP Ananada
