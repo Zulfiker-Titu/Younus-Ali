@@ -87,12 +87,16 @@ http://103.118.76.229:1935/tvprogram/SONY-AATH/playlist.m3u8
 http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1,Star Jalsha (Opt-2)
 http://103.111.120.46/hls/Star_Jalsha.m3u8
+#EXTINF:-1,Star Jalsha (Opt-3)
+http://103.121.36.238:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1,Jalsha Movies
 http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-1)
 http://103.118.76.229:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
 https://triangle.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1,Zee Bangla (Opt-3)
+http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 #EXTINF:-1,RPlus Gold
@@ -103,7 +107,7 @@ http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
 http://movies.nexg.tv/movie-b/movie-b.smil/playlist.m3u8
 #EXTINF:-1,DD Bangla
 http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
-#EXTINF:-1,ABP Ananada
+#EXTINF:-1,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,RPLUS NEWS
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
@@ -184,7 +188,7 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 #EXTINF:-1,Atn Islam
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1,Al Dawah TV
-http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/live-orgin/dawah-eu.stream/chunks.m3u8
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1,Iqra Bangla TV
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1,Madani Channel Bangla
@@ -207,6 +211,8 @@ http://43.231.22.238:8081/startvbangla/startv/chunks.m3u8
 http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,Gaan Bangla
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1,RTV Music
+http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://27.147.156.14:1935/Sangeet-Bangla/Sangeet-Bangla.stream/chunks.m3u8
 #EXTINF:-1,Bangla Talkies
