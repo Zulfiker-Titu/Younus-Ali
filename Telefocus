@@ -103,6 +103,8 @@ http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 #EXTINF:-1,Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
+#EXTINF:-1,Enterr 10 Bangla
+http://103.68.116.50/live/feed1009/index.m3u8
 #EXTINF:-1,nexGTv Bengali Movies
 http://movies.nexg.tv/movie-b/movie-b.smil/playlist.m3u8
 #EXTINF:-1,DD Bangla
