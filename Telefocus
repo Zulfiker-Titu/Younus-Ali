@@ -111,6 +111,8 @@ http://movies.nexg.tv/movie-b/movie-b.smil/playlist.m3u8
 http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
 #EXTINF:-1,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1,News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1,RPLUS NEWS
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
 #EXTINF:-1,ARTAGE NEWS
