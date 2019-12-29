@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,[Visit in Facebook:Telefocus IPTV]
 https://www.facebook.com/telefocus.iptv/?referrer=whatsapp
+#EXTINF:-1,Ananda TV
+http://103.3.226.74:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1,ASIAN TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,ATN BANGLA
@@ -22,17 +24,17 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,CHANNEL 9
 http://103.118.76.229:1935/tvprogram/CHANNEL-9/playlist.m3u8
 #EXTINF:-1,CHANNEL 24
-https://triangle.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
 https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
 #EXTINF:-1,DBC News
-https://triangle.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
 https://triangle.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
-https://triangle.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+http://162.254.149.187:1935/live/deshtv/playlist.m3u8
 #EXTINF:-1,DURONTO TV
 https://triangle.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1,Sonic
@@ -44,17 +46,17 @@ http://103.121.36.238:8081/live/ekushey/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
 http://103.118.76.229:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
-https://triangle.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1,BD IP 1
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
 http://103.118.76.229:1935/tvprogram/INDEPENDENT/playlist.m3u8
 #EXTINF:-1,Jamuna TV
-https://triangle.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/JAMUNA-TV/playlist.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.118.76.229:1935/tvprogram/MAASRANGA-MOBILE/playlist.m3u8
 #EXTINF:-1,MOHONA TV
-http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunks.m3u8
+http://42.0.6.130/hls/vbD0JnHMvBTfUQ6Y7Mlxag/1576663234/mohona_tv_hi/index.m3u8
 #EXTINF:-1,MY TV
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1,NTV
@@ -65,12 +67,14 @@ https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.121.36.238:8081/live/nagorik/chunks.m3u8
+#EXTINF:-1,News 24
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,RTV
 https://triangle.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1,SA TV
-https://triangle.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/SATV/playlist.m3u8
 #EXTINF:-1,Somoy News
-https://triangle.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/SOMOY-TV/playlist.m3u8
 #EXTINF:-1,Songsad TV
 http://jotv.bdtype.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1,Discovery HD
@@ -236,7 +240,7 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,RTV Music
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
-https://triangle.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
 #EXTINF:-1,Bangla Talkies
 http://27.147.156.14:1935/BanglaTalk/banglatalk.stream/playlist.m3u8
 #EXTINF:-1,Music Fatafati
