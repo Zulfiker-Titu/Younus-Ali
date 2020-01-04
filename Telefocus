@@ -87,8 +87,10 @@ http://103.121.36.238:8081/live/colorsbangla-59/chunks.m3u8
 http://103.118.76.229:1935/tvprogram/SONY-AATH/playlist.m3u8
 #EXTINF:-1,Sony Aath (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1,Star Jalsha (Opt-1)
 http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+#EXTINF:-1,Star Jalsha (Opt-2)
+http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
 http://103.118.76.229:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-2)
@@ -119,6 +121,8 @@ http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
+#EXTINF:-1,RPlus News
+http://streamidvo.multitvsolution.in/RPlus-e/playlist.m3u8
 #EXTINF:-1,ARTAGE NEWS
 http://artage.livebox.co.in/ArtageNewshls/live.m3u8
 #EXTINF:-1,Bangla Time
